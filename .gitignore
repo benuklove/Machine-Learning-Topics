@@ -87,3 +87,15 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Large files and directories
+amazon_baby.csv
+image_test_data.zip
+image_test_data/
+image_train_data.csv
+people_wiki.gl.zip
+song_data.gl/
+image_test_data.csv
+people_wiki.csv
+song_data.csv
+
