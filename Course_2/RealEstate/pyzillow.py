@@ -120,12 +120,12 @@ def house_info(source_df, start, stop):
 """ Change 3 sections each time """
 
 # Call the function over desired range (Zillow only allows 1000 calls per day)
-new_df = house_info(bv, 7000, 8000)    # start inclusive, stop exclusive
+new_df = house_info(bv, 9000, 10000)    # start inclusive, stop exclusive
 
 """set the range of rows on bv in frames for specified range of new_df"""
 # Combine the old info with the new, side by side, each row a house
-df1 = bv.loc[7000:7999].reset_index()    # start and stop inclusive
+df1 = bv.loc[9000:9999].reset_index()    # start and stop inclusive
 result = pd.concat([df1, new_df], axis=1)
 
 # Send final dataframe to csv
-result.to_csv('houses8.csv', encoding='utf-8')
+result.to_csv('houses10.csv', encoding='utf-8')
