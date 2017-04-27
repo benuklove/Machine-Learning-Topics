@@ -90,6 +90,7 @@ ENV/
 
 # Large files and directories
 amazon_baby.csv
+amazon_baby.gl/
 image_test_data.zip
 image_test_data/
 image_train_data.csv
