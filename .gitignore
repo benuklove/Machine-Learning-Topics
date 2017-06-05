@@ -102,3 +102,9 @@ people_wiki.csv
 song_data.csv
 song_data.gl.zip
 apikey.py
+people_wiki.gl
+people_wiki.csv.zip
+people_wiki_tf_idf.npz.zip
+people_wiki_word_count.npz.zip
+people_wiki_map_index_to_word.json.zip
+people_wiki_map_index_to_word.gl.zip
