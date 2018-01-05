@@ -1,4 +1,4 @@
-# Machine-Learning-Coursera
+# Machine-Learning-Topics
 My files from the University of Washington Machine Learning Specialization on Coursera.
 
 Course 1:  Machine Learning Foundations
